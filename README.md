@@ -9,3 +9,9 @@ Dans la plupart des cas, git est capable de mélanger les modifications que diff
 - **Athos** corrigera la première faute de frappe (deux) et **Porthos** la seconde (fautes de frappe) 
 
 - Chacun va faire un clone du repositoire et corriger sa faute de frappe localement, puis essayer de faire un `push` du changement. 
+
+
+
+
+
+
